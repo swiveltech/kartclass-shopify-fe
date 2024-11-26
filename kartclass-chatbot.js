@@ -753,8 +753,7 @@
 <div class="chat-container">
     <div id="top-div" class="top-div">
         <div class="kart-bot"><img class="chatbot-icon" alt="Chatbot Icon" height="46px" width="46px"
-                src="https://cdn.shopify.com/s/files/1/0720/6898/9168/files/chatbot-icon.svg?v=1723630972"><span>Kart
-                Bot</span></div>
+                src="https://cdn.shopify.com/s/files/1/0720/6898/9168/files/chatbot-icon.svg?v=1723630972"><span>APEX</span></div>
         <div class="intro-msg" id="intro-msg">
             <p><span>Hello </span><span class="username">{{ customer.first_name }} {{ customer.last_name
                     }}!</span><br>How Can I Help you?</p>
